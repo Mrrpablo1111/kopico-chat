@@ -1,4 +1,4 @@
-# Kopico-Cahy
+# Kopico-Chat
 
 This is a full-stack web application powered by:
 
